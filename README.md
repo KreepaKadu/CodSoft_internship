@@ -1,5 +1,5 @@
-# CodSoft Task 1
+# CodSoft Task 3
 
-'Movie Rating Prediction with Python'
-The goal is to analyze historical movie data and develop a model that accurately estimates the rating given to a movie by users or critics.
-It predicts the rating of a movie based on features like genre, director, and actors.
+'IRIS FLOWER CLASSIFICATION'
+The Iris flower dataset consists of three species: setosa, versicolor, and virginica.
+The objective is accurately classify iris flowers into different species based on their sepal and petal measurements.
